@@ -1,4 +1,4 @@
-<h3 align="center">A Full stack Developer from Ethiopia</h3>
+<h3 align="center">Full-Stack Developer | Node.js, React, MongoDB, Socket.io Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andi-gech&label=Profile%20views&color=0e75b6&style=flat" alt="andi-gech" /> </p>
 
